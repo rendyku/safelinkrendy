@@ -1,0 +1,2 @@
+# safelinkrendy
+file.js
